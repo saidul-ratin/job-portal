@@ -70,8 +70,8 @@ The frontend will run on `http://localhost:5173` and the backend on `http://loca
 
 ## Live Demo Link
 
-- Frontend: (will be added after deployment)
-- Backend API: (will be added after deployment)
+- **Frontend:** https://job-portal-umber-eta.vercel.app
+- **Backend API:** https://job-portal-backend-eprh.onrender.com
 
 ## Author
 
