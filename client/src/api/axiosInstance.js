@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosInstance = axios.create({
-  baseURL: 'http://localhost:5000/api',
+  baseURL: 'https://job-portal-backend-eprh.onrender.com/api',
 });
 
 // Automatically attach token to every request if user is logged in
